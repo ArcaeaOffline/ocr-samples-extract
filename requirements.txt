@@ -1,0 +1,4 @@
+arcaea-offline-ocr==0.0.99
+
+rich==13.7.1
+questionary==2.0.1
